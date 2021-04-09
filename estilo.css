@@ -1,0 +1,30 @@
+#corpo{
+	border: 1px solid #900;
+	width: 300px;
+	height: 500px;
+
+	background-color: pink;
+}
+
+#tela{
+	border: 1px solid #900;
+	width: 277px;
+	height: 50px;
+	margin: 10px;
+	font-size: 40px;
+	overflow-x: hidden;
+	background-color: white;
+}
+
+#numeros{
+	margin: 7px;
+	width: 300px;
+	height: 150px;
+}
+
+button{
+	margin: 10px;
+	margin-left: 20px;
+	width: 60px;
+	height: 60px;
+}
